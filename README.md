@@ -49,8 +49,12 @@ Blog sitesine ait bazı temel ekran görüntüleri aşağıda yer almaktadır:
 ### Yorumlar, Hakkımda ve Son Makaleler
 | Yorumlar | Hakkımda | Son Makaleler |
 |----------|------------|----------------|
-| ![Comment](Images/Comment.png) | ![AboutMe](Images/AboutMe.png) | ![LastArticle](Images/LastArticle.png) |
+| ![Comment](Images/Comment.png)    | ![AboutMe](Images/AboutMe.png) | ![LastArticle](Images/LastArticle.png) |
 
+### Yorumlar, Şifre 
+| Yorumlar |Giriş ve Yorum | 
+|----------|------------|----------------|
+|![commentAdd](Images/commentAdd.png) ![CommentLogin](Images/CommentLogin.png)   |![password2](Images/password2.png) ![Password](Images/Password.png)|  |
 ---
 
 ## 🧑‍💻 Geliştirici Notu
