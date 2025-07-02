@@ -31,3 +31,28 @@ Bu proje, kullanıcıların makale yazabildiği, yorum yapabildiği ve içerikle
 - **Frontend:** Razor View Engine, jQuery, Bootstrap 5, SweetAlert2
 - **AI Servisleri:** HuggingFace (ToxicBERT & Translation API)
 - **Veritabanı:** MS SQL Server
+
+## 📷 Ekran Görüntüleri
+
+Blog sitesine ait bazı temel ekran görüntüleri aşağıda yer almaktadır:
+
+### Giriş, Kayıt ve Yazar Paneli
+| Giriş Ekranı | Kayıt Sayfası | Yazar Paneli |
+|-------------|----------------|--------------|
+| ![Login](images/Login.png) | ![Register](images/Register.png) | ![Writer](images/Writer.png) |
+
+### Ana Sayfa, Dashboard ve Blog Oluşturma
+| Ana Sayfa | Dashboard | Blog Oluşturma |
+|----------|------------|----------------|
+| ![BlogSite](images/BlogSite.png) | ![Dashboard](images/Dashboard.png) | ![CreateBlog](images/CreateBlog.png) |
+
+### Yorumlar, Hakkımda ve Son Makaleler
+| Yorumlar | Hakkımda | Son Makaleler |
+|----------|------------|----------------|
+| ![Comment](images/Comment.png) | ![AboutMe](images/AboutMe.png) | ![LastArticle](images/LastArticle.png) |
+
+---
+
+## 🧑‍💻 Geliştirici Notu
+
+Bu proje, hem kullanıcı hem yönetici deneyimini merkeze alarak geliştirildi. Modern teknolojiler ve yapay zeka servisleriyle zenginleştirildi. Tamamen modüler yapısıyla yeni özellikler kolayca entegre edilebilir.
