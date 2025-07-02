@@ -39,17 +39,17 @@ Blog sitesine ait bazı temel ekran görüntüleri aşağıda yer almaktadır:
 ### Giriş, Kayıt ve Yazar Paneli
 | Giriş Ekranı | Kayıt Sayfası | Yazar Paneli |
 |-------------|----------------|--------------|
-| ![Login](images/Login.png) | ![Register](images/Register.png) | ![Writer](images/Writer.png) |
+| ![Login](Images/Login.png) | ![Register](Images/Register.png) | ![Writer](Images/Writer.png) |
 
 ### Ana Sayfa, Dashboard ve Blog Oluşturma
 | Ana Sayfa | Dashboard | Blog Oluşturma |
 |----------|------------|----------------|
-| ![BlogSite](images/BlogSite.png) | ![Dashboard](images/Dashboard.png) | ![CreateBlog](images/CreateBlog.png) |
+| ![BlogSite](Images/BlogSite.png) | ![Dashboard](Images/Dashboard.png) | ![CreateBlog](Images/CreateBlog.png) |
 
 ### Yorumlar, Hakkımda ve Son Makaleler
 | Yorumlar | Hakkımda | Son Makaleler |
 |----------|------------|----------------|
-| ![Comment](images/Comment.png) | ![AboutMe](images/AboutMe.png) | ![LastArticle](images/LastArticle.png) |
+| ![Comment](Images/Comment.png) | ![AboutMe](Images/AboutMe.png) | ![LastArticle](Images/LastArticle.png) |
 
 ---
 
