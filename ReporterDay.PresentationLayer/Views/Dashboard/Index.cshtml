@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AuthorLayout.cshtml";
+}
+
+
+
+<h2>Dashboard</h2>
+
+<p><strong>Toplam Blog Sayısı:</strong> @ViewBag.BlogCount</p>
+
+<div style="width: 400px; height: 400px;">
+    <canvas id="commentPieChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    fetch("/Dashboard/GetCommentDistribution")
+        .then(response => response.json())
+        .then(data => {
+            const labels = data.map(x => x.title);
+            const commentCounts = data.map(x => x.commentCount);
+
+            const ctx = document.getElementById('commentPieChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Her Bloga Gelen Yorum Sayısı',
+                        data: commentCounts,
+                        backgroundColor: '#36A2EB',
+                        borderColor: '#1f5ea0',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            ticks: {
+                                stepSize: 1
+                            }
+                        }
+                    }
+                }
+            });
+        });
+</script>

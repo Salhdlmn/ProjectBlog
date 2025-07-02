@@ -1,0 +1,13 @@
+﻿@model List<ReporterDay.EntityLayer.Entities.Article>
+@{
+    ViewData["Title"] = "MyArticleList";
+    Layout = "~/Views/Shared/_AuthorLayout.cshtml";
+}
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Title</li>
+        
+    }
+</ul>

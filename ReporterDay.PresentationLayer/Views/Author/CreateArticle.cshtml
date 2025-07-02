@@ -1,0 +1,38 @@
+﻿@model ReporterDay.EntityLayer.Entities.Article
+@{
+	ViewData["Title"] = "CreateArticle";
+	Layout = "~/Views/Shared/_AuthorLayout.cshtml";
+}
+
+
+
+
+<form method="post">
+	@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+	<label>Blog Başlığı </label>
+	<input type="text" class="form-control" asp-for="Title">
+	<br />
+
+	<label> Blog Küçük kapak Görseli</label>
+	<input type="text" class="form-control" asp-for="CoverImageUrl">
+	<br />
+
+
+	<label >Blog Büyük Görsel</label>
+	<input type="text" class="form-control" asp-for="MainImageUrl">
+	<br />
+
+
+	
+	<label>Blog Kategorisi </label>
+	@Html.DropDownListFor(x=>x.CategoryId,(List<SelectListItem>)ViewBag.categories, new {@class="form-control"})
+	<br />
+
+
+	<label >Blog İçeriği </label>
+	<textarea type="text" class="form-control" asp-for="Content" rows="5"></textarea>
+	<br />
+	<button  class="btn btn-primary ">Blog oluştur</button>
+
+</form>

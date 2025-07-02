@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\wwwroot\\js\\addcomment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\wwwroot\\js\\addcomment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B8BD76-2A38-430A-BA1F-49AFF491D889}|ReporterDay.BusinessLayer\\ReporterDay.BusinessLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.businesslayer\\abstract\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B8BD76-2A38-430A-BA1F-49AFF491D889}|ReporterDay.BusinessLayer\\ReporterDay.BusinessLayer.csproj|solutionrelative:reporterday.businesslayer\\abstract\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B8BD76-2A38-430A-BA1F-49AFF491D889}|ReporterDay.BusinessLayer\\ReporterDay.BusinessLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.businesslayer\\concrete\\articlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B8BD76-2A38-430A-BA1F-49AFF491D889}|ReporterDay.BusinessLayer\\ReporterDay.BusinessLayer.csproj|solutionrelative:reporterday.businesslayer\\concrete\\articlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B8BD76-2A38-430A-BA1F-49AFF491D889}|ReporterDay.BusinessLayer\\ReporterDay.BusinessLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.businesslayer\\abstract\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B8BD76-2A38-430A-BA1F-49AFF491D889}|ReporterDay.BusinessLayer\\ReporterDay.BusinessLayer.csproj|solutionrelative:reporterday.businesslayer\\abstract\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\views\\article\\articledetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\views\\article\\articledetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\viewcomponents\\articledetailviewcomponents\\_articledetailaddcommentcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\viewcomponents\\articledetailviewcomponents\\_articledetailaddcommentcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\views\\shared\\components\\_articledetailaboutauthorcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\views\\shared\\components\\_articledetailaboutauthorcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\viewcomponents\\articledetailviewcomponents\\_articledetailaboutauthorcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\viewcomponents\\articledetailviewcomponents\\_articledetailaboutauthorcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBE5073-3A92-4267-8DFF-C534DDF61862}|ReporterDay.DataAccessLayer\\ReporterDay.DataAccessLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.dataaccesslayer\\entityframework\\efarticledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBE5073-3A92-4267-8DFF-C534DDF61862}|ReporterDay.DataAccessLayer\\ReporterDay.DataAccessLayer.csproj|solutionrelative:reporterday.dataaccesslayer\\entityframework\\efarticledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\views\\shared\\_authorlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\views\\shared\\_authorlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\views\\article\\bloglistbywriter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\views\\article\\bloglistbywriter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\views\\author\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\views\\author\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\views\\author\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\views\\author\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|c:\\users\\monster\\onedrive\\desktop\\reporterday\\reporterday.presentationlayer\\views\\author\\createarticle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F044500E-BF5F-4C09-B3FF-B9E709D25BB4}|ReporterDay.PresentationLayer\\ReporterDay.PresentationLayer.csproj|solutionrelative:reporterday.presentationlayer\\views\\author\\createarticle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addComment.js",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\wwwroot\\js\\addComment.js",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\wwwroot\\js\\addComment.js",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\wwwroot\\js\\addComment.js",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\wwwroot\\js\\addComment.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-02T16:45:49.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.BusinessLayer\\Abstract\\ICommentService.cs",
+              "RelativeDocumentMoniker": "ReporterDay.BusinessLayer\\Abstract\\ICommentService.cs",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.BusinessLayer\\Abstract\\ICommentService.cs",
+              "RelativeToolTip": "ReporterDay.BusinessLayer\\Abstract\\ICommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:27:26.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T14:21:35.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:21:30.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Login\\UserLogin.cshtml",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Views\\Login\\UserLogin.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Login\\UserLogin.cshtml",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Views\\Login\\UserLogin.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T14:19:22.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:19:15.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAywEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:01:24.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticleManager.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.BusinessLayer\\Concrete\\ArticleManager.cs",
+              "RelativeDocumentMoniker": "ReporterDay.BusinessLayer\\Concrete\\ArticleManager.cs",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.BusinessLayer\\Concrete\\ArticleManager.cs",
+              "RelativeToolTip": "ReporterDay.BusinessLayer\\Concrete\\ArticleManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:27:55.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T14:10:14.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.BusinessLayer\\Abstract\\IArticleService.cs",
+              "RelativeDocumentMoniker": "ReporterDay.BusinessLayer\\Abstract\\IArticleService.cs",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.BusinessLayer\\Abstract\\IArticleService.cs",
+              "RelativeToolTip": "ReporterDay.BusinessLayer\\Abstract\\IArticleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:57:13.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ArticleDetailAddCommentComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\ViewComponents\\ArticleDetailViewComponents\\_ArticleDetailAddCommentComponentPartial.cs",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\ViewComponents\\ArticleDetailViewComponents\\_ArticleDetailAddCommentComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\ViewComponents\\ArticleDetailViewComponents\\_ArticleDetailAddCommentComponentPartial.cs",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\ViewComponents\\ArticleDetailViewComponents\\_ArticleDetailAddCommentComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:08:56.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Shared\\Components\\_ArticleDetailAboutAuthorComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Views\\Shared\\Components\\_ArticleDetailAboutAuthorComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Shared\\Components\\_ArticleDetailAboutAuthorComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Views\\Shared\\Components\\_ArticleDetailAboutAuthorComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T14:09:19.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArticleDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Article\\ArticleDetail.cshtml",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Views\\Article\\ArticleDetail.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Article\\ArticleDetail.cshtml",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Views\\Article\\ArticleDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:58:25.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EfArticleDal.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.DataAccessLayer\\EntityFramework\\EfArticleDal.cs",
+              "RelativeDocumentMoniker": "ReporterDay.DataAccessLayer\\EntityFramework\\EfArticleDal.cs",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.DataAccessLayer\\EntityFramework\\EfArticleDal.cs",
+              "RelativeToolTip": "ReporterDay.DataAccessLayer\\EntityFramework\\EfArticleDal.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCkAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:07:09.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ArticleDetailAboutAuthorComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\ViewComponents\\ArticleDetailViewComponents\\_ArticleDetailAboutAuthorComponentPartial.cs",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\ViewComponents\\ArticleDetailViewComponents\\_ArticleDetailAboutAuthorComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\ViewComponents\\ArticleDetailViewComponents\\_ArticleDetailAboutAuthorComponentPartial.cs",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\ViewComponents\\ArticleDetailViewComponents\\_ArticleDetailAboutAuthorComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:03:54.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAJsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:52:08.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogListByWriter.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Article\\BlogListByWriter.cshtml",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Views\\Article\\BlogListByWriter.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Article\\BlogListByWriter.cshtml",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Views\\Article\\BlogListByWriter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:34:44.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AboutMe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Author\\AboutMe.cshtml",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Views\\Author\\AboutMe.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Author\\AboutMe.cshtml",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Views\\Author\\AboutMe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:36:19.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_AuthorLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Shared\\_AuthorLayout.cshtml",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Views\\Shared\\_AuthorLayout.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Shared\\_AuthorLayout.cshtml",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Views\\Shared\\_AuthorLayout.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAwwHcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T08:50:47.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Author\\Profile.cshtml",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Views\\Author\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Author\\Profile.cshtml",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Views\\Author\\Profile.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T07:41:49.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateArticle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Author\\CreateArticle.cshtml",
+              "RelativeDocumentMoniker": "ReporterDay.PresentationLayer\\Views\\Author\\CreateArticle.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\OneDrive\\Desktop\\ReporterDay\\ReporterDay.PresentationLayer\\Views\\Author\\CreateArticle.cshtml",
+              "RelativeToolTip": "ReporterDay.PresentationLayer\\Views\\Author\\CreateArticle.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T11:21:10.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

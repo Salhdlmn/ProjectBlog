@@ -1,0 +1,41 @@
+﻿@{
+	Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+@await Component.InvokeAsync("_HeadDefaultComponentPartial")
+
+<body class="single-post-page">
+
+	@await Component.InvokeAsync("_ArticleDetailNavbarComponentPartial")
+
+	<main class="main">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8">
+					@await Component.InvokeAsync("_ArticleDetailContentComponentPartial",new{id=ViewBag.i})
+
+					@await Component.InvokeAsync("_ArticleDetailCommentsComponentPartial", new { id = ViewBag.i}) 
+					@* bir alt partial'a göndermek için *@
+
+					@await Component.InvokeAsync("_ArticleDetailAddCommentComponentPartial",new {articleId=ViewBag.i})
+
+				</div>
+				<div class="col-lg-4 sidebar">
+					<div class="widgets-container">
+						@await Component.InvokeAsync("_ArticleDetailAboutAuthorComponentPartial")
+
+						@await Component.InvokeAsync("_ArticleRecentArticlesComponentPartial")
+
+						@await Component.InvokeAsync("_ArticleDetailTagListComponentPartial")
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</main>
+	@await Component.InvokeAsync("_FooterDefaultComponentPartial")
+</body>
+</html>

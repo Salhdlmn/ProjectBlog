@@ -1,0 +1,57 @@
+﻿@model ProfileViewModel
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/_AuthorLayout.cshtml";
+}
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+
+
+<h2>Profil Bilgileri</h2>
+<table class="table">
+    <tr>
+        <th>Kullanıcı Adı</th>
+        <td>@Model.UserName</td>
+    </tr>
+    <tr>
+        <th>Email</th>
+        <td>@Model.Email</td>
+    </tr>
+</table>
+
+<hr />
+<h4>Şifre Değiştir</h4>
+
+<form asp-action="Profile" method="post">
+    <div class="mb-2">
+        <label>Mevcut Şifre</label>
+        <input asp-for="CurrentPassword" class="form-control" />
+        <span asp-validation-for="CurrentPassword" class="text-danger"></span>
+    </div>
+
+    <div class="mb-2">
+        <label>Yeni Şifre</label>
+        <input asp-for="NewPassword" class="form-control" />
+        <span asp-validation-for="NewPassword" class="text-danger"></span>
+    </div>
+
+    <div class="mb-2">
+        <label>Yeni Şifre (Tekrar)</label>
+        <input asp-for="ConfirmPassword" class="form-control" />
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+    @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+    {
+        <div class="alert alert-danger">@error.ErrorMessage</div>
+    }
+    <button type="submit" class="btn btn-primary">Şifreyi Güncelle</button>
+</form>
+<br />
+
+<a class="btn btn-secondary" href="/Author/EditProfile/">Profili Güncelle</a>
+

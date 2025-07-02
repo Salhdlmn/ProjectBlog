@@ -1,0 +1,27 @@
+﻿@model UserAboutViewModel
+@{
+    ViewData["Title"] = "AboutMe";
+    Layout = "~/Views/Shared/_AuthorLayout.cshtml";
+}
+
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+
+       
+
+            <div class="card p-4 border-0 shadow-sm">
+                <img src="@Model.ImageUrl" class="rounded-circle mx-auto d-block" style="width: 150px; height: 150px;" alt="Profil Resmi">
+                <div class="card-body">
+                    <h4 class="card-title">@Model.UserName</h4>
+                    <p class="card-text text-muted">@Model.Email</p>
+                    <h2>Hakkımda</h2>
+                    <p class="card-text text-justify">@Model.Description</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+

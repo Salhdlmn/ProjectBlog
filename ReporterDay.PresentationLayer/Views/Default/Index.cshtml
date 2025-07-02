@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+@await Component.InvokeAsync("_HeadDefaultComponentPartial")
+
+<body class="category-page">
+
+    @await Component.InvokeAsync("_HeaderDefaultComponentPartial")
+
+    <main class="main">
+
+        <!-- Page Title -->
+       
+        </div><!-- End Page Title -->
+        @await Component.InvokeAsync("_ArticleListDefaultComponentPartial", new { page = Context.Request.Query["page"].ToString() ?? "1" })
+
+
+    </main>
+
+    @await Component.InvokeAsync("_FooterDefaultComponentPartial")
+
+</body>
+
+</html>

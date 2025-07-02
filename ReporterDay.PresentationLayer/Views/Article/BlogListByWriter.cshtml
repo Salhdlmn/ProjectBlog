@@ -1,0 +1,36 @@
+﻿@using ReporterDay.EntityLayer.Entities
+@model List<Article>
+@{
+    ViewData["Title"] = "BlogListByWriter";
+    Layout = "~/Views/Shared/_AuthorLayout.cshtml";
+}
+
+<h2>Bloglarım</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Fotoğraf</th>
+            <th>Başlık</th>
+            <th>İçerik</th>
+            <th>Tarih</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var blog in Model)
+        {
+            <tr>
+                <td><img src="@blog.MainImageUrl" class="rounded-circle mx-auto d-block" style="width: 150px; height: 150px;" alt="Profil Resmi"></td>
+                <td>@blog.Title</td>
+                <td>@(blog.Content.Length > 50 ? blog.Content.Substring(0, 50) + "..." : blog.Content)</td>
+                <td>@blog.CreatedDate.ToShortDateString()</td>
+                <td>
+                    <a href="/Blog/Update/@blog.AppUser.Id" class="btn btn-warning">Düzenle</a>
+                    <a href="/Blog/Delete/@blog.AppUser.Id" class="btn btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="/Author/CreateArticle/" class="btn btn-primary">Yeni Blog Oluştur</a>

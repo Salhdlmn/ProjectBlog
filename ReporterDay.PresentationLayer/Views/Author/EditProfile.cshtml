@@ -1,0 +1,44 @@
+﻿
+@model ProfileUpdateViewModel
+
+@{
+    ViewData["Title"] = "EditProfile";
+    Layout = "~/Views/Shared/_AuthorLayout.cshtml";
+}
+
+<h2 class="text-center">Profil Bilgilerini Güncelle</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<form asp-action="EditProfile" method="post">
+    <div class="mb-3">
+        <label>Kullanıcı Adı</label>
+        <input asp-for="UserName" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Hakkımda</label>
+        <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label>Profil Resmi URL</label>
+        <input asp-for="ImageUrl" class="form-control" />
+        @if (!string.IsNullOrEmpty(Model.ImageUrl))
+        {
+            <img src="@Model.ImageUrl" style="width:100px;height:100px;margin-top:10px;" class="rounded" />
+        }
+    </div>
+
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+</form>
+
+
