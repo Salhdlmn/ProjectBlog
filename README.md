@@ -54,7 +54,7 @@ Blog sitesine ait bazı temel ekran görüntüleri aşağıda yer almaktadır:
 ### Şifre Yönetimi
 | Şifre Doğrulama | Şifre Başarı |
 |------------------|----------------|
-| ![Password](Images/Passwiord.png) | ![Password2](Images/pasword2.png) |
+| ![Password](Images/Password.png) | ![Password2](Images/pasword2.png) |
 
 ---
 
