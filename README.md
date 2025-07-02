@@ -1,6 +1,6 @@
-# 📝 Blog Management System with ASP.NET Core
+# 📰 Modern Blog Sitesi – ASP.NET Core MVC
 
-Bu proje, modern web geliştirme pratiklerini barındıran kapsamlı bir blog yönetim sistemidir. ASP.NET Core ve Entity Framework ile inşa edilen sistem; kullanıcı yönetimi, içerik kontrolü, yorum mekanizması ve daha fazlasını dinamik bir yapıda sunmaktadır.
+Bu proje, kullanıcıların makale yazabildiği, yorum yapabildiği ve içerikleri kategori bazlı takip edebildiği dinamik bir **blog platformudur**. ASP.NET Core teknolojileriyle geliştirilen sistem, yapay zeka destekli moderasyon ve modern kullanıcı deneyimiyle öne çıkıyor.
 
 ## 🚀 Öne Çıkan Özellikler
 
