@@ -51,10 +51,11 @@ Blog sitesine ait bazı temel ekran görüntüleri aşağıda yer almaktadır:
 |----------|------------|----------------|
 | ![Comment](Images/Comment.png)    | ![AboutMe](Images/AboutMe.png) | ![LastArticle](Images/LastArticle.png) |
 
-### Yorumlar, Şifre 
-| Yorumlar |Giriş ve Yorum | 
-|----------|------------|----------------|
-|![commentAdd](Images/commentAdd.png)| ![CommentLogin](Images/CommentLogin.png)   |![password2](Images/password2.png)| ![Password](Images/Password.png)|  |
+### Şifre Yönetimi
+| Şifre Doğrulama | Şifre Başarı |
+|------------------|----------------|
+| ![Password](images/Passwiord.png) | ![Password2](images/pasword2.png) |
+
 ---
 
 ## 🧑‍💻 Geliştirici Notu
